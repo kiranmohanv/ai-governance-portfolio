@@ -19,4 +19,4 @@ Two anchor projects, carried through the year:
 ## Background
 
 [My background is in public international law, with particular depth in space law, law of the sea and the governance of emerging technologies. I am now developing hands-on technical literacy in AI systems to apply that legal grounding to AI governance, with a focus on Europe-facing compliance and space and dual-use AI.]
-<img width="468" height="475" alt="image" src="https://github.com/user-attachments/assets/8686f9be-c708-4a55-b2a8-e12d6bd76605" />
+
