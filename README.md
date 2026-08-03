@@ -1,6 +1,6 @@
  	# AI Governance Portfolio — [Kiran Mohan Vazhapully]
 
-International and space lawyer building credible, hands-on expertise in AI governance and technical assurance, with a focus on Europe-facing compliance and space and dual-use AI.
+International and space lawyer building hands-on expertise in AI governance and technical assurance. I am focusing on Europe-facing compliance and space and dual-use AI.
 
 ## What I am building
 
@@ -18,5 +18,4 @@ Two anchor projects, carried through the year:
 
 ## Background
 
-My background is in public international law, with particular depth in space law, law of the sea and the governance of emerging technologies. I am now developing hands-on technical literacy in AI systems to apply that legal grounding to AI governance, with a focus on Europe-facing compliance and space and dual-use AI.
-
+My background is in public international law, with particular depth in space law and the law of the sea. I am now developing hands-on technical literacy in AI systems to apply that legal grounding to AI governance, with a focus on Europe-facing compliance and space and dual-use AI.
