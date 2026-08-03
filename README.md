@@ -1,4 +1,4 @@
- 	# AI Governance Portfolio — [Kiran Mohan Vazhapully]
+ 	# AI Governance Portfolio — Kiran Mohan Vazhapully
 
 International and space lawyer building hands-on expertise in AI governance and technical assurance. I am focusing on Europe-facing compliance and space and dual-use AI.
 
